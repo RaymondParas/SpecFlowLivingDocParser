@@ -1,6 +1,6 @@
 # SpecFlowLivingDocParser
 
-This project was made to solve the issue related to the final status of a test scenario displayed on SpecFlow+ LivingDoc's living documentation when combining multiple test execution files associated with the same logical test run.
+This project was made to solve the issue related to the final status of a test scenario displayed on SpecFlow+ LivingDoc's HTML document when combining multiple test execution files associated with the same logical test run.
 
 ## Problem Description
 
