@@ -41,4 +41,4 @@ There is an optional parameter that can be passed to specify the file name patte
 ```sh
 --filePattern TestExecution*.json
 ```
-The resulting file will be "TestExecution.json" located in your specified output directory
+The resulting file will be "TestExecution.json" located in your specified output directory which can be used to generate the SpecFlow+ LivingDoc HTML document.
