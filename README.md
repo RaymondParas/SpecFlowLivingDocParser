@@ -42,3 +42,5 @@ There is an optional parameter that can be passed to specify the file name patte
 --filePattern TestExecution*.json
 ```
 The resulting file will be "TestExecution.json" located in your specified output directory which can be used to generate the SpecFlow+ LivingDoc HTML document.
+
+![Flow chart describing the process of where the program is used with SpecFlow tests](docs/diagram.png)
